@@ -1,0 +1,12 @@
+name: "LobbySystem"
+version: "1.0"
+api-version: "1.8"
+author: "Masterphoenix"
+main: de.master.lobby.core.LobbyPlugin
+commands:
+  build:
+    description: "Aktiviere den Baumodus"
+  nav:
+  setspawn:
+    aliases:
+      - ss
